@@ -1,0 +1,12 @@
+E:\Lập trình mạng\UDPChatSimpleGUI\UDPChatSimpleGUI\bin\Debug\UDPChatSimpleGUI.exe.config
+E:\Lập trình mạng\UDPChatSimpleGUI\UDPChatSimpleGUI\bin\Debug\UDPChatSimpleGUI.exe
+E:\Lập trình mạng\UDPChatSimpleGUI\UDPChatSimpleGUI\bin\Debug\UDPChatSimpleGUI.pdb
+E:\Lập trình mạng\UDPChatSimpleGUI\UDPChatSimpleGUI\obj\Debug\UDPChatSimpleGUI.csprojAssemblyReference.cache
+E:\Lập trình mạng\UDPChatSimpleGUI\UDPChatSimpleGUI\obj\Debug\UDPChatSimpleGUI.Client.resources
+E:\Lập trình mạng\UDPChatSimpleGUI\UDPChatSimpleGUI\obj\Debug\UDPChatSimpleGUI.Form1.resources
+E:\Lập trình mạng\UDPChatSimpleGUI\UDPChatSimpleGUI\obj\Debug\UDPChatSimpleGUI.Properties.Resources.resources
+E:\Lập trình mạng\UDPChatSimpleGUI\UDPChatSimpleGUI\obj\Debug\UDPChatSimpleGUI.Server.resources
+E:\Lập trình mạng\UDPChatSimpleGUI\UDPChatSimpleGUI\obj\Debug\UDPChatSimpleGUI.csproj.GenerateResource.cache
+E:\Lập trình mạng\UDPChatSimpleGUI\UDPChatSimpleGUI\obj\Debug\UDPChatSimpleGUI.csproj.CoreCompileInputs.cache
+E:\Lập trình mạng\UDPChatSimpleGUI\UDPChatSimpleGUI\obj\Debug\UDPChatSimpleGUI.exe
+E:\Lập trình mạng\UDPChatSimpleGUI\UDPChatSimpleGUI\obj\Debug\UDPChatSimpleGUI.pdb
