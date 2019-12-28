@@ -1,0 +1,20 @@
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\bin\Debug\Client.exe.config
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\bin\Debug\Client.exe
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\bin\Debug\Client.pdb
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.Properties.Resources.resources
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.exe
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.pdb
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Client\obj\Debug\Client.Form1.resources
+C:\Users\Nhan\Desktop\ProjectFinal\Client\bin\Debug\Client.exe.config
+C:\Users\Nhan\Desktop\ProjectFinal\Client\bin\Debug\Client.exe
+C:\Users\Nhan\Desktop\ProjectFinal\Client\bin\Debug\Client.pdb
+C:\Users\Nhan\Desktop\ProjectFinal\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Nhan\Desktop\ProjectFinal\Client\obj\Debug\Client.Form1.resources
+C:\Users\Nhan\Desktop\ProjectFinal\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Nhan\Desktop\ProjectFinal\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Nhan\Desktop\ProjectFinal\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Nhan\Desktop\ProjectFinal\Client\obj\Debug\Client.exe
+C:\Users\Nhan\Desktop\ProjectFinal\Client\obj\Debug\Client.pdb

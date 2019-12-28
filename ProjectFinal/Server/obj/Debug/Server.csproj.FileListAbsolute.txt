@@ -1,0 +1,14 @@
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\bin\Debug\Server.exe.config
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\bin\Debug\Server.exe
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\bin\Debug\Server.pdb
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\obj\Debug\Server.exe
+D:\HK Mới\Lập Trình Mạng\Đồ Án\ProjectFinal\Server\obj\Debug\Server.pdb
+C:\Users\Nhan\Desktop\ProjectFinal\Server\bin\Debug\Server.exe.config
+C:\Users\Nhan\Desktop\ProjectFinal\Server\bin\Debug\Server.exe
+C:\Users\Nhan\Desktop\ProjectFinal\Server\bin\Debug\Server.pdb
+C:\Users\Nhan\Desktop\ProjectFinal\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Nhan\Desktop\ProjectFinal\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Nhan\Desktop\ProjectFinal\Server\obj\Debug\Server.exe
+C:\Users\Nhan\Desktop\ProjectFinal\Server\obj\Debug\Server.pdb
